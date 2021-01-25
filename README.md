@@ -30,4 +30,4 @@ Esta prueba unittest nos permite verificar que la librería este correcta compar
 - **Luis Felipe Giraldo** -  [Larfg]([Larfg (github.com)](https://github.com/Larfg))
 
 ## Licencia
-Este proyecto está bajo la Licencia (GNU) - mira el archivo LICENSE.md para detalles
+Este proyecto está bajo la Licencia (GNU) - mira el archivo LICENSE.txt para detalles
